@@ -1,0 +1,10 @@
+C:\Users\805485\Documents\Main_Project\AspApp\BO\bin\Debug\BusinessObject.dll
+C:\Users\805485\Documents\Main_Project\AspApp\BO\bin\Debug\BusinessObject.pdb
+C:\Users\805485\Documents\Main_Project\AspApp\BO\obj\Debug\BusinessObject.csprojResolveAssemblyReference.cache
+C:\Users\805485\Documents\Main_Project\AspApp\BO\obj\Debug\BusinessObject.dll
+C:\Users\805485\Documents\Main_Project\AspApp\BO\obj\Debug\BusinessObject.pdb
+C:\Users\805485\Documents\Main_Project\TrainerPoolManagement\BO\bin\Debug\BusinessObject.dll
+C:\Users\805485\Documents\Main_Project\TrainerPoolManagement\BO\bin\Debug\BusinessObject.pdb
+C:\Users\805485\Documents\Main_Project\TrainerPoolManagement\BO\obj\Debug\BusinessObject.csprojResolveAssemblyReference.cache
+C:\Users\805485\Documents\Main_Project\TrainerPoolManagement\BO\obj\Debug\BusinessObject.dll
+C:\Users\805485\Documents\Main_Project\TrainerPoolManagement\BO\obj\Debug\BusinessObject.pdb

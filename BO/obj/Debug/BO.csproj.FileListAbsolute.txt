@@ -1,0 +1,5 @@
+C:\Users\805485\Documents\Main_Project\AspApp\BO\bin\Debug\BO.dll
+C:\Users\805485\Documents\Main_Project\AspApp\BO\bin\Debug\BO.pdb
+C:\Users\805485\Documents\Main_Project\AspApp\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\805485\Documents\Main_Project\AspApp\BO\obj\Debug\BO.dll
+C:\Users\805485\Documents\Main_Project\AspApp\BO\obj\Debug\BO.pdb
