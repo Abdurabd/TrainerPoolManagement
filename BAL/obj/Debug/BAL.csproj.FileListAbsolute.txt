@@ -1,0 +1,9 @@
+C:\Users\805485\Documents\Main_Project\AspApp\BAL\bin\Debug\BAL.dll
+C:\Users\805485\Documents\Main_Project\AspApp\BAL\bin\Debug\BAL.pdb
+C:\Users\805485\Documents\Main_Project\AspApp\BAL\bin\Debug\BO.dll
+C:\Users\805485\Documents\Main_Project\AspApp\BAL\bin\Debug\DAL.dll
+C:\Users\805485\Documents\Main_Project\AspApp\BAL\bin\Debug\BO.pdb
+C:\Users\805485\Documents\Main_Project\AspApp\BAL\bin\Debug\DAL.pdb
+C:\Users\805485\Documents\Main_Project\AspApp\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\805485\Documents\Main_Project\AspApp\BAL\obj\Debug\BAL.dll
+C:\Users\805485\Documents\Main_Project\AspApp\BAL\obj\Debug\BAL.pdb
